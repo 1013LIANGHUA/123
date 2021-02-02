@@ -1,0 +1,44 @@
+.陳亮華{
+  background: rgb(36, 252, 83);
+  font-weight: bold;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: large;
+}
+
+ 
+.數字 {
+  background: tomato;
+  font-weight: bold;
+}
+
+.課程{
+  background: peachpuff;
+  font-family:cursive;
+  font-weight: bold;
+}
+
+.標題{
+  background: rgb(107, 107, 224);
+  font-weight: bold;
+}
+.星期{
+  background:orchid
+}
+.聯絡{
+  background:rgb(196, 3, 3);
+}
+
+.網址{
+  background: red;
+  font-weight: bold;
+}
+
+.信箱{
+  background: red;
+  font-weight: bold;
+}
+
+.a{
+  background: rgba(77, 74, 74, 0.329);
+  font-weight: bold;
+}
